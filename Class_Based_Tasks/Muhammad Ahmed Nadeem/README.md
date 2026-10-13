@@ -10,7 +10,7 @@
 
 ### Overview
 
-This repository section contains **daily interactive class lectures, live coding exercises, and LeetCode algorithmic problem-solving tasks** conducted during live instructional sessions.
+This repository section contains **daily interactive class lectures, live coding exercises, LeetCode algorithmic problem-solving tasks, and the Convolutional Neural Network (CNN) practical review project** assigned during live instructional sessions.
 
 ---
 
@@ -49,21 +49,23 @@ Class_Based_Tasks/Muhammad Ahmed Nadeem/
 │   ├── README.md
 │   └── Class_07_ML_Preprocessing_Encoding.ipynb
 │
-└── Week_6/                                 # Week 6 Live Lectures
+└── Week_6/                                 # Week 6 Live Lectures & Deep Learning Projects
     ├── README.md
-    └── Class_08_NLP_Tokenization_and_Padding.ipynb
+    ├── Class_08_NLP_Tokenization_and_Padding.ipynb  # Class Lecture 8
+    ├── CNN_1D_Text_Classification.ipynb             # Monday Task: 1D-CNN for Text & Sentiment
+    └── CNN_2D_Image_Classification.ipynb            # Monday Task: 2D-CNN for Visual Classification
 ```
 
 ---
 
-### Class Lectures Summary
+### Class Lectures & Projects Summary
 
-| Week | Class Notebooks | Key Topics Covered in Class |
-|---|---|---|
-| **LeetCode** | [LeetCode_Daily_Tasks.ipynb](./LeetCode/LeetCode_Daily_Tasks.ipynb) | Binary search insert, range missing values, balanced brackets stack |
-| **Week 1** | Class 01 & 02 | Python basics, Electricity bill calculation, String slicing, Dictionaries |
-| **Week 2** | Class 03 & 04 | Conditional logic, Nested grading dictionaries, NumPy array generation |
-| **Week 3** | Class 05 | Pandas DataFrame cleaning, Handling missing values, Duplicate removal |
-| **Week 4** | Class 06 & Graphs | Matplotlib, Seaborn distributions, Multi-variable graphing |
-| **Week 5** | Class 07 | Machine Learning feature engineering, Scikit-learn `LabelEncoder` |
-| **Week 6** | Class 08 | NLP text preprocessing, Tokenization, Integer numericalization, Padding |
+| Week | Contents | Key Topics Covered in Class | Special Focus |
+|---|---|---|---|
+| **LeetCode** | [LeetCode_Daily_Tasks.ipynb](./LeetCode/LeetCode_Daily_Tasks.ipynb) | Search insert position, range missing values, bracket validation stack | Problem Solving |
+| **Week 1** | Class 01 & 02 | Python basics, Electricity bill calculation, String slicing, Dictionaries | Core Syntax |
+| **Week 2** | Class 03 & 04 | Conditional logic, Nested grading dictionaries, NumPy array generation | Logic & NumPy |
+| **Week 3** | Class 05 | Pandas DataFrame cleaning, Handling missing values, Duplicate removal | Data Cleaning |
+| **Week 4** | Class 06 & Graphs | Matplotlib, Seaborn distributions, Multi-variable graphing | Visual Analytics |
+| **Week 5** | Class 07 | Machine Learning feature engineering, Scikit-learn `LabelEncoder` | ML Preprocessing |
+| **Week 6** | Class 08 & **CNN Models** | NLP tokenization, sequence padding, **1D-CNN (Text)** & **2D-CNN (Vision)** | **Monday Review Submission** |
