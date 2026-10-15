@@ -1,0 +1,20 @@
+{
+  "test_accuracy": 1.0,
+  "test_f1": 1.0,
+  "check_set_accuracy": 1.0,
+  "check_set_size": 24,
+  "check_set_by_group": {
+    "Contrast": 1.0,
+    "Normal negative": 1.0,
+    "Normal positive": 1.0,
+    "Tricky negative": 1.0,
+    "Tricky positive": 1.0
+  },
+  "unseen_words_accuracy": 1.0,
+  "parameters": 46337,
+  "vocab_size": 142,
+  "train_reviews_original": 420,
+  "train_reviews_synthetic": 1000,
+  "epochs_trained": 40,
+  "augmentation": true
+}
