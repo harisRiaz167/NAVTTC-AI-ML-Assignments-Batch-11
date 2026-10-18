@@ -1,0 +1,16 @@
+employee_id,name,department,age,salary,join_date,city,performance_score,is_manager
+101,Ayesha Khan,Sales,29,52000,2019-03-15,Karachi,4.2,False
+102,Bilal Ahmed,Engineering,34,78000,2017-06-01,Lahore,4.7,True
+103,Sana Malik,Marketing,26,45000,2021-01-10,Islamabad,3.8,False
+104,Omar Farooq,Engineering,41,95000,2013-11-23,Karachi,4.9,True
+105,Fatima Iqbal,HR,31,50000,2018-08-05,Lahore,4.0,False
+106,Hassan Raza,Sales,25,41000,2022-04-18,Karachi,3.5,False
+107,Zainab Sheikh,Finance,38,88000,2015-02-27,Islamabad,4.4,True
+108,Usman Tariq,Engineering,28,67000,2020-09-12,Lahore,4.1,False
+109,Mahnoor Aslam,Marketing,33,54000,2016-07-30,Karachi,3.9,False
+110,Ali Hyder,Finance,45,102000,2011-05-19,Islamabad,4.8,True
+111,Hina Yousuf,HR,27,,2021-12-01,Lahore,3.6,False
+112,Tariq Mehmood,Sales,36,60000,2014-10-08,Karachi,4.3,False
+113,Nadia Aziz,Engineering,30,72000,2019-06-22,Islamabad,4.5,False
+114,Faisal Siddiqui,Marketing,,48000,2020-03-14,Lahore,3.7,False
+115,Rabia Chaudhry,Finance,39,91000,2012-01-29,Karachi,4.6,True
