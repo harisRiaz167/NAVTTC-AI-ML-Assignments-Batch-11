@@ -1,27 +1,22 @@
-# Week 02 - Modular Functions, Error Trapping & Descriptive Statistics
+# Week 02 Assignments (Day-by-Day Breakdown)
 
 **Student Name:** Muhammad Ahmed Nadeem  
 **Course:** NAVTTC AI & Machine Learning - Batch 11  
+**Curriculum Document:** `AI_ML_Course_Assignments_Week_Day.docx` (Week 2)
 
 ---
 
-## Overview
+## Directory Organization by Day
 
-This module covers clean program design in Python, focusing on modular functions, defensive programming via exception handling to prevent runtime failures, custom error classes, and foundational exploratory statistics.
+This directory implements all assignments for **Week 2** organized strictly by **Day folders** as prescribed in the curriculum:
 
----
-
-## Tasks Summary
-
-| Task # | Title | Key Concepts | Implementation |
-|---|---|---|---|
-| **Task 1** | Modular Functions & Evaluation | Flexible arguments (`*args`, `**kwargs`), default values, docstrings | Dynamic candidate performance and grading engine |
-| **Task 2** | Built-in Exception Trapping | `try`, `except`, `else`, `finally`, `ZeroDivisionError` | Defensive numeric calculation handler |
-| **Task 3** | Custom Exception Classes | Inheriting from `Exception`, raising with `raise` | Financial transaction validator with `AccountBalanceError` |
-| **Task 4** | Central Tendency Statistics | Mean ($\mu$), Median, Mode from first principles | Unbiased statistical summary of sample distribution |
-| **Task 5** | Dispersion Statistics | Population & Sample Variance ($\sigma^2$), Standard Deviation ($\sigma$) | Dispersion metrics and data spread calculation |
+| **Week 2, Day 1** | Assignment 20 | PythonComplete the exercise on user-defined functions in Python. | PythonComplete the exercise on user-defined functions in Pyt... | [`Day_1/Assignment_20.ipynb`](./Day_1/Assignment_20.ipynb) |
+| **Week 2, Day 1** | Assignment 26 | PythonComplete the exercise on exception handling in Python. | PythonComplete the exercise on exception handling in Python.... | [`Day_1/Assignment_26.ipynb`](./Day_1/Assignment_26.ipynb) |
+| **Week 2, Day 1** | Assignment 27 | PythonComplete the exercise on user-defined exception handling in Python. | PythonComplete the exercise on user-defined exception handli... | [`Day_1/Assignment_27.ipynb`](./Day_1/Assignment_27.ipynb) |
+| **Week 2, Day 4** | Assignment 49 | StatisticsCalculate mean, median, and mode. | StatisticsCalculate mean, median, and mode.... | [`Day_4/Assignment_49.ipynb`](./Day_4/Assignment_49.ipynb) |
+| **Week 2, Day 5** | Assignment 50 | StatisticsCalculate standard deviation. | StatisticsCalculate standard deviation.... | [`Day_5/Assignment_50.ipynb`](./Day_5/Assignment_50.ipynb) |
 
 ---
 
-## Files in this Directory
-- **`Week_2_Tasks.ipynb`**: Complete Jupyter Notebook containing Tasks 1 to 5 with documentation, formulas, and executed outputs.
+## Day Notebooks & Master Links
+- Consolidated Week Notebook: [`Week_2_Tasks.ipynb`](./Week_2_Tasks.ipynb)
