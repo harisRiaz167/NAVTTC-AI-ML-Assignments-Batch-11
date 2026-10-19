@@ -21,3 +21,21 @@ for x in t:
             print(x)
     else:
         print(x)
+#Task: For each day, determine how many days you must wait until a warmer temperature occurs. If there is no future day with a warmer temperature, put 0.
+T=[71,72,68,71,76,80]
+output_list=[]
+index=0
+for x in range(0,len(T)):
+    if x==len(T)-1: 
+        output_list.append(0) 
+    else: for y in range(x+1,len(T)):
+        if T[y]>T[x]:
+            s=T[y]-T[x] 
+            index+=1 
+            output_list.append(index) 
+            index=0 
+            break 
+        else: 
+            index+=1 
+print(output_list) 
+# Output: [1, 3, 1, 1, 1, 0]
